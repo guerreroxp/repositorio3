@@ -1,2 +1,3 @@
 # repositorio3
-Prube para clases
+Prueba para clases
+Taller de programación 2024
