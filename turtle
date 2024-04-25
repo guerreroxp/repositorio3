@@ -1,0 +1,17 @@
+import turtle
+
+# Configuración inicial
+screen = turtle.Screen()
+screen.setup(width=400, height=400)
+screen.title("Dibujo de un cuadrado")
+
+# Crear un objeto Turtle
+t = turtle.Turtle()
+
+# Dibujar el cuadrado
+for _ in range(4):
+    t.forward(100)  # Avanza 100 unidades
+    t.right(90)     # Gira 90 grados a la derecha
+
+# Mantener la ventana abierta hasta que se cierre manualmente
+screen.mainloop()
