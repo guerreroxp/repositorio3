@@ -28,4 +28,3 @@ Este repositorio contiene mis pruebas y ejercicios de código para el taller de 
   - ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   - ![Google Certified Educator](https://img.shields.io/badge/-Google_Certified_Educator-4285F4?style=flat&logo=google&logoColor=white)
 
-¡Siéntete libre de ajustar los iconos y la información según tus preferencias y necesidades!
